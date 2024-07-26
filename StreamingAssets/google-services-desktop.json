@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "640198879847",
+    "project_id": "block-roll",
+    "storage_bucket": "block-roll.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:640198879847:android:23f47fef8fa15018a382c2",
+        "android_client_info": {
+          "package_name": "com.eaagamestudio.BlockRoll"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDaMKOBjSXCt61koZuoLS9z-CnBfEEiCtI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
